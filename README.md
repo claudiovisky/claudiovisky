@@ -1,24 +1,55 @@
-# Olá, eu sou o Claudio Azevedo 👋
+# Olá, eu sou o Claudio 👋 (@claudiovisky)
 
-Sou um desenvolvedor apaixonado por resolver problemas complexos através de software, com sólida experiência em sistemas de gestão (ERP), automação comercial e infraestrutura Linux. Atualmente, foco no desenvolvimento de soluções robustas utilizando Java e Delphi, sempre buscando o equilíbrio entre performance e escalabilidade.
-
-### 🚀 No que estou trabalhando agora:
-* **Udisoft ERP:** Liderando a migração e desenvolvimento de um sistema ERP web moderno utilizando **Java 21**, **Vaadin** e **Angular**.
-* **Serviços Fiscais de Alta Concorrência:** Mantenedor de um sistema emissor de documentos fiscais de alta performance em **Delphi** utilizando componentes **ACBr**.
-
-### 🛠️ Tecnologias e Ferramentas:
-
-* **Linguagens:** Java (8, 11, 21), Delphi, C#.
-* **Frameworks & Web:** Spring Boot, Vaadin, Angular, Maven.
-* **Automação Comercial:** Integração profunda com ACBr (NFe, NFce, NFSe, CTe, MDFe, + Dists).
-* **Infraestrutura & OS:** Usuário entusiasta de **Arch Linux** com **Hyprland**, focado em produtividade via linha de comando e customização do ambiente.
-* **Integrações:** Experiência com APIs de Telegram para notificações de health status de micro-serviços.
-
-### 📊 Estatísticas do GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=claudiovisky&show_icons=true&theme=tokyonight)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiovisky&layout=compact&theme=tokyonight)
+Sou um **Desenvolvedor Backend** com foco em **Sistemas Críticos e Arquiteturas de Grande Porte**. Minha carreira é pautada pela robustez da **Programação Orientada a Objetos (POO)** e pelo compromisso inegociável com a **Segurança da Informação**. Especialista em transformar regras de negócio complexas em software de alta confiabilidade.
 
 ---
 
-> "Transformando lógica complexa em código eficiente."
+### 🏆 Destaque: Reforma Tributária 2026
+Fui o **único desenvolvedor responsável** pela implementação e refatoração integral do motor fiscal para atender às novas diretrizes da **Reforma Tributária no Brasil (vigência 2026)**. 
+* Realizei a transição completa para o modelo de **IBS e CBS** em todos os documentos fiscais (NF-e, NFC-e, NFS-e, CT-e, MDF-e).
+* Domínio total sobre o ciclo de vida dos documentos e cálculos tributários de nova geração, garantindo conformidade e segurança jurídica antes mesmo da entrada em vigor.
+
+---
+
+### 🚀 Experiências de Destaque
+
+#### **Modernização de Ecossistemas ERP**
+Atuo na sustentação de sistemas críticos enquanto lidero a evolução tecnológica:
+* **Manutenção do Legado:** Sustentação e correção de bugs em ambientes **Java 1.8** com **Vaadin 7**.
+* **Arquitetura de Futuro:** Lidero a refatoração completa para **Java 21** no backend e **Angular** no frontend, aplicando padrões modernos de desenvolvimento.
+
+#### **Expertise em Motores Fiscais & Automação**
+* **Desenvolvimento & Evolução:** Experiência vasta com componentes **ACBr** em Delphi e agora construindo um novo motor fiscal do zero em **C#** para maior robustez.
+* **Domínio Funcional:** Especialista em **NF-e, NFC-e, CT-e, MDF-e** e processos de **Distribuição de DF-e**.
+
+#### **Infraestrutura e Dados**
+* **Linux para Servidores:** Foco total em administração de distros para servidores e automação de deploys.
+* **Persistência de Dados:** Especialista em **PostgreSQL**, com foco em modelagem e performance para grandes volumes de dados.
+
+---
+
+### 🛠️ Toolbox Técnica
+
+* **Linguagens (POO):** Java (8 e 21), Delphi, C# (.NET).
+* **Frameworks & Web:** Spring Boot, Vaadin 7, Angular.
+* **Banco de Dados:** PostgreSQL (Foco principal).
+* **Segurança:** *Information Security Enthusiast* — foco constante em **Secure SDLC** e proteção de dados em aplicações corporativas.
+
+---
+
+### 🌱 No Radar de Evolução
+Atualmente, estou me aprofundando em **Arquiteturas API/REST**, buscando as melhores práticas de design de endpoints e escalabilidade.
+
+---
+
+### 📊 My Stacks:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Delphi](https://img.shields.io/badge/delphi-%23D52B1E.svg?style=for-the-badge&logo=delphi&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+> "Segurança, estabilidade e conformidade: a base de qualquer software que move o mercado."
